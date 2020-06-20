@@ -7,5 +7,7 @@ public class Main {
         System.out.println("GIT2");
 
         System.out.println("GIT3");
+
+        System.out.println("zmiana1");
     }
 }
